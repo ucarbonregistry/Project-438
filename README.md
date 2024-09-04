@@ -51,3 +51,52 @@ with the average plant load factor of 20.5%..
 This annual average net electricity generation and
 annual average GHG emission reductions are with application of degradation factor of 0.70% from
 second year
+_________________
+ISSUANCE DATE: 04/09/2024
+
+MP-01 PERIOD: 2017-2023
+
+QTY: 182901
+______________
+Serial Number: 0001-000001-032114-UCR-CoU-IN-438-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 32114
+______________
+Serial Number: 0001-032115-059151-UCR-CoU-IN-438-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 27037
+_______________
+Serial Number: 0001-059152-085301-UCR-CoU-IN-438-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 26150
+______________
+Serial Number: 0001-085302-109795-UCR-CoU-IN-438-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 24494
+______________
+Serial Number: 0001-109796-133548-UCR-CoU-IN-438-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 23753
+__________________
+Serial Number: 0001-133549-157056-UCR-CoU-IN-438-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 23508
+________________
+Serial Number: 0001-157057-182901-UCR-CoU-IN-438-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 25845
+_________________
